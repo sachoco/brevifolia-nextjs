@@ -2,8 +2,8 @@
 label: Blog post
 hide_body: false
 fields:
-- name: text
+- name: title
   type: text
   config:
     required: false
-  label: Text
+  label: Title
